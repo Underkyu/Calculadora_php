@@ -1,0 +1,1 @@
+Uma calculadora feita com php q usa usa _GET para iputs (x,y e operacao)
