@@ -1,4 +1,4 @@
-tml{
+html{
     height: 100%;
 }
 
@@ -21,6 +21,7 @@ div.container{
     background-color: rgb(192, 235, 129);
     border-radius: 25px;
     height: min-content;
+    padding: 1rem;
 }
 h1,h2{
     text-align: center;

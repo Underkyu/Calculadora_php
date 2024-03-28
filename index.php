@@ -6,43 +6,7 @@
     <title>Document</title>
     <link rel="stylesheet" type="text/css" href="CSS/Index.css" media="screen">
     <style>
-     html{
-    height: 100%;
-}
-
-body{
-    height: 100%;
-}
-
-div.corpo{
-    width: 100%;
-    height: 100%;
-    display: flex;
-    justify-content: center;
-    align-items: center;
-    flex-direction: column;
-}
-
-div.container{
-    border: solid 5px;
-    border-color: rgb(101, 161, 93);
-    background-color: rgb(192, 235, 129);
-    border-radius: 25px;
-    height: min-content;
-}
-h1,h2{
-    text-align: center;
-    font-family: 'Courier New', Courier, monospace;
-}
-div.titulo{
-    display: flex;
-    justify-content: center;
-    align-items: center;
-}
-img{
-    width: 6rem;
-    height: 6rem;
-}
+    
     </style>
 </head>
 <body>
